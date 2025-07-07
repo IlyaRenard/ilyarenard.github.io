@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f37e7bb.css",
-    "main.js": "/static/js/main.cdbb279a.js",
+    "main.css": "/static/css/main.a603f18e.css",
+    "main.js": "/static/js/main.e0c308f7.js",
     "static/media/image.jpg": "/static/media/image.2c874a8c0d7e5bc1aff7.jpg",
     "static/media/phenica.png": "/static/media/phenica.ddbac04e3ffee00e6af4.png",
     "index.html": "/index.html",
-    "main.1f37e7bb.css.map": "/static/css/main.1f37e7bb.css.map",
-    "main.cdbb279a.js.map": "/static/js/main.cdbb279a.js.map"
+    "main.a603f18e.css.map": "/static/css/main.a603f18e.css.map",
+    "main.e0c308f7.js.map": "/static/js/main.e0c308f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f37e7bb.css",
-    "static/js/main.cdbb279a.js"
+    "static/css/main.a603f18e.css",
+    "static/js/main.e0c308f7.js"
   ]
 }
